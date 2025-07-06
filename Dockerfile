@@ -6,4 +6,4 @@ RUN pip install flask
 
 COPY first.py /app.py
 
-CMD ["python3","/app.py"]
+CMD ["python3","app.py"]
